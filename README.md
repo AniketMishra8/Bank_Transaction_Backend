@@ -97,7 +97,6 @@ backend-ledger/
 ├── .env.example                   # Safe template of environment variables
 ├── .gitignore                     # Git exclusion rules (node_modules, .env, logs)
 ├── package.json                   # Project metadata, dependencies, and scripts
-├── PROJECT_DOCUMENTATION.md       # Comprehensive deep-dive & interview guide
 ├── server.js                      # Application entry point & HTTP listener
 └── README.md                      # Project documentation (this file)
 ```
